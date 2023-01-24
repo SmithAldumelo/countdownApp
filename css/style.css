@@ -55,10 +55,16 @@ span{
       
     }
     h1{
-        font-size: 4rem;
+        font-size: 2rem;
         margin-left: 4rem;
        
     }
+     .text{
+    font-size: 3rem ;
+    font-weight: bold;
+    line-height: 1;
+    margin:0 1rem;
+}
 
     
 }
